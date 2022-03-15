@@ -6,7 +6,6 @@ I have knowledge in the Typescript and Javascript languages, using the React JS 
 
 - You can find me: <br>
 
-**Twitter**: ![Twitter URL](https://img.shields.io/twitter/url?label=Mayara&logoColor=%23f54272&style=social&url=https%3A%2F%2Ftwitter.com%2Fmayaramaaraujo_) <br>
 **Linkedin**: ![linkedin URL](https://img.shields.io/badge/mayaramaaraujo-linkedin-blue?link=https://www.linkedin.com/in/mayaramaaraujo/)
 
 
