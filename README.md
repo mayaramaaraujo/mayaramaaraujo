@@ -1,6 +1,6 @@
 ## Hi people! All right? :smile:
 
-My name is Mayara and I have been studying programming for a year. Welcome to my github! 😊💻
+My name is Mayara and I have been studying programming for two years. Welcome to my github! 😊💻
 
 I have knowledge in the Typescript and Javascript languages, using the React JS and Node Js frameworks, and MySQL database. In addition, I am currently learning Angular JS and Java.
 
