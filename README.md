@@ -2,7 +2,7 @@
 
 My name is Mayara and I have been studying programming for two years. Welcome to my github! 😊💻
 
-I have knowledge in the Typescript and Javascript languages, using the React JS and Node Js frameworks, and MySQL database. In addition, I am currently learning Angular JS and Java.
+I have knowledge in Typescript, Javascript and Java languages, using the React JS, Node Js and Spring Boot frameworks, and MySQL and SQL Server database. I work using React JS in frontend, and Java/Spring boot in backend.
 
 - You can find me: <br>
 
