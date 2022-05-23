@@ -6,7 +6,7 @@ I have knowledge in Typescript, Javascript and Java languages, using the React J
 
 - You can find me: <br>
 
-**Linkedin**: ![linkedin URL](https://img.shields.io/badge/mayaramaaraujo-linkedin-blue?link=https://www.linkedin.com/in/mayaramaaraujo/)
+**Linkedin**: [linkedin](https://www.linkedin.com/in/mayaramaaraujo/)
 
 
 
