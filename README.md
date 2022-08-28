@@ -1,6 +1,6 @@
-## Hi people! All right? :smile:
+## Hello! All right? :smile:
 
-My name is Mayara and I have been studying programming for two years and working as a Software developer for one year. Welcome to my github! 😊💻
+My name is Mayara and I have been studying programming for three years and working as a Software Developer for almost two years. Welcome to my github! 😊💻
 
 I have knowledge in Typescript, Javascript and Java languages, using the React JS, Node Js and Spring Boot frameworks, and MySQL and SQL Server database. I work using React JS in frontend, and Java/Spring boot in backend.
 
