@@ -1,6 +1,6 @@
 ## Hello! All right? :smile:
 
-My name is Mayara and I have been working as a Software Developer for 3 years. Welcome to my github! 😊💻
+My name is Mayara and I have been working as a Software Developer for 4 years. Welcome to my github! 😊💻
 
 - You can find me: <br>
 
